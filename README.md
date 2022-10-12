@@ -1,6 +1,6 @@
 # login_flutter
 
-A new Flutter project.
+flutter login.
 
 ## Getting Started
 
